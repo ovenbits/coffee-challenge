@@ -6,7 +6,7 @@ What kind of hip-software-development-studio would we be if didn't mention our e
 
 Yeah okay, so we like coffee at Oven Bits. Naturally, some of us here are more fussy about it than others, but we do drink a lot of it.
 
-And so, prospective Oven Bits developer, here is the challenge set before you: a chance to demonstrate YOUR love for coffee, and show off your craft along the way.
+And so, prospective Oven Bits developer, here is the challenge set before you: a chance to demonstrate _your_ love for coffee, showing off your craft along the way.
 
 ## Overview
 
